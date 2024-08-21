@@ -1,0 +1,4 @@
+Company Name: Precision Metalworks, Inc.
+
+Description:
+Precision Metalworks, Inc. is a mid-sized manufacturing company specializing in high-quality metal components and assemblies for the automotive, aerospace, and industrial sectors. With over 25 years of experience, the company has built a reputation for precision engineering, innovative solutions, and reliable delivery. Our state-of-the-art facility in the Midwest is equipped with advanced CNC machining, welding, and fabrication capabilities, allowing us to meet the most demanding specifications and timelines. At Precision Metalworks, we are committed to excellence in every aspect of our operations, from design to delivery, ensuring our clients receive the best in craftsmanship and service.

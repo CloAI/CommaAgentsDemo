@@ -1,0 +1,12 @@
+Accounts Receivable
+Client,Invoice Number,Amount (USD),Due Date,Paid,Payment Date,Paid Amount (USD)
+Jones Inc Industrial,e3ea7378-664a-4694-81ea-82d5809cd11d,$45838.23,2024-09-30,Yes,2024-07-21,$45838.23
+"Wilson, Ramirez and Jones Technologies",bf9517bf-39f0-44c4-82cf-b2ea915608a4,$38207.91,2024-11-11,No,,$5601.33
+Garner-Henry Manufacturing,a738c80e-a00d-460e-95fb-a1548a17b456,$40857.29,2024-09-22,No,,$15208.98
+Farley LLC Manufacturing,31e48679-589a-4caf-8189-abde250cd80f,$17134.38,2024-11-09,No,,$1230.84
+Allen-Meyer Technologies,07978ad8-e0eb-46f4-9350-643686b49d1d,$46026.57,2024-09-14,No,,$44008.05
+Olson LLC Automotive,46dfc3ed-6a29-4d03-9fd7-eab686de62cd,$46698.74,2024-10-31,No,,$46362.37
+"Ayala, Turner and Fernandez Technologies",604bac6b-52e1-4cf9-84ce-ced732e91c15,$38118.66,2024-08-29,Yes,2024-08-07,$38118.66
+"Simmons, Stanley and Walsh Machinery",df136caf-9d68-472b-9333-556fb1540703,$31969.91,2024-09-04,Yes,2024-07-27,$31969.91
+Stevenson-Sullivan Industrial,946c9d0f-be90-40e0-8b45-a5f6f91301f7,$10726.32,2024-10-28,Yes,2024-07-28,$10726.32
+Dunlap LLC Machinery,2343d7cf-a373-4c4a-9284-ef29ce00cec0,$29945.25,2024-10-15,Yes,2024-07-27,$29945.25
