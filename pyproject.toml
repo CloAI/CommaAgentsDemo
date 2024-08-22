@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-comma-agents = "^0.0.6"
+comma-agents = "^0.0.7"
 faker = "^27.0.0"
 seedir = "^0.5.0"
 pandas = "^2.2.2"

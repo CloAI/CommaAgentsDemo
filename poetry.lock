@@ -38,13 +38,13 @@ files = [
 
 [[package]]
 name = "comma-agents"
-version = "0.0.6"
+version = "0.0.7"
 description = "A way to elevate your AI workflow with Comma Agents, a versatile Python library designed for seamless AI model integration and automation. Perfect for developers looking to enhance efficiency in local or remote environments, it offers customizable AI flows and scalable solutions. Streamline your projects with Comma Agents, the ideal tool for Python-based AI automation."
 optional = false
 python-versions = "<4.0,>=3.9"
 files = [
-    {file = "comma_agents-0.0.6-py3-none-any.whl", hash = "sha256:f27cf221064c1aae107a62e7056a46a8211db6bbd82a210cc231dbb1fcfaa320"},
-    {file = "comma_agents-0.0.6.tar.gz", hash = "sha256:20accb4275ae0a4b995a4828789162f21bdce81cf6380f1396912887b6b55ad1"},
+    {file = "comma_agents-0.0.7-py3-none-any.whl", hash = "sha256:7f0a2112aa41bb61b38cbe69efa0b5fec8d8d03d5e0ede0877129bedaac01dae"},
+    {file = "comma_agents-0.0.7.tar.gz", hash = "sha256:76e932facaa9b25d759127d0364af23761221eff5fc1d0d0379276434406eb08"},
 ]
 
 [package.dependencies]
@@ -594,4 +594,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "529aa5cb1ce14bad3d379d8c2f69d795fd09630716c462a37d4aeae87d214a5e"
+content-hash = "ba1f4326ee82dc7521e315e100576b83a7e0e587fe571a4240d4ab012f0ba2f9"
