@@ -7,7 +7,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+<<<<<<< Updated upstream
 comma-agents = "^0.0.7"
+=======
+comma-agents = "^0.0.8"
+>>>>>>> Stashed changes
 faker = "^27.0.0"
 seedir = "^0.5.0"
 pandas = "^2.2.2"
