@@ -38,22 +38,13 @@ files = [
 
 [[package]]
 name = "comma-agents"
-<<<<<<< Updated upstream
-version = "0.0.7"
-=======
 version = "0.0.8"
->>>>>>> Stashed changes
 description = "A way to elevate your AI workflow with Comma Agents, a versatile Python library designed for seamless AI model integration and automation. Perfect for developers looking to enhance efficiency in local or remote environments, it offers customizable AI flows and scalable solutions. Streamline your projects with Comma Agents, the ideal tool for Python-based AI automation."
 optional = false
 python-versions = "<4.0,>=3.9"
 files = [
-<<<<<<< Updated upstream
-    {file = "comma_agents-0.0.7-py3-none-any.whl", hash = "sha256:7f0a2112aa41bb61b38cbe69efa0b5fec8d8d03d5e0ede0877129bedaac01dae"},
-    {file = "comma_agents-0.0.7.tar.gz", hash = "sha256:76e932facaa9b25d759127d0364af23761221eff5fc1d0d0379276434406eb08"},
-=======
     {file = "comma_agents-0.0.8-py3-none-any.whl", hash = "sha256:d264118a720441dbeb07c56d8f2bb6d89eb16d8a477a019dc58cd7b82396b5ca"},
     {file = "comma_agents-0.0.8.tar.gz", hash = "sha256:e06da5bd0a623a6acf6643d58b5a9e72be451f6fbc839173950378383413dfe9"},
->>>>>>> Stashed changes
 ]
 
 [package.dependencies]
@@ -736,8 +727,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-<<<<<<< Updated upstream
-content-hash = "ba1f4326ee82dc7521e315e100576b83a7e0e587fe571a4240d4ab012f0ba2f9"
-=======
 content-hash = "34ad888d64595672cfc2fc83a386207dc40e44d11345dc47fb6468bdcd32e937"
->>>>>>> Stashed changes
